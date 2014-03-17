@@ -1,0 +1,17 @@
+{
+	"name" : "Rockout",
+	"description" : "A UI and utility suite for KnockoutJS",
+	"homepage" : "www.rockoutjs.com",
+	"bugs" : { 
+		"url" : "https://github.com/thinkingsites/rockoutjs/issues"
+	},
+	"license" : "GPL-3.0+",
+	"repository" :
+	{ 
+		"type" : "git",
+		"url" : "https://github.com/thinkingsites/rockoutjs"
+	},
+	"depenencies" : {
+		"gruntjs" : ">=0.4.4"
+	}
+}
